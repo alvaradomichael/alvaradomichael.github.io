@@ -1,0 +1,14 @@
+button {
+    position:relative;
+    transition: .5s ease;
+    top: 391px;
+    left: 620px;
+    right: -420px;
+    bottom: -91px;
+    height:50px;
+    width:100px;
+}
+
+body{
+  font-family: 'Cairo', sans-serif;
+}
