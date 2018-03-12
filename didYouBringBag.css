@@ -1,0 +1,11 @@
+body{
+  font-family: 'Gloria Hallelujah', cursive;
+  text-align: center;
+}
+
+button{
+  height:35px;
+  width:75px;
+  top: 50px;
+  left: 50px;
+}

@@ -14,9 +14,9 @@ body{
   text-align: center;
 }
 
-.homebutton{
+.profile-submit{
   height:35px;
   width:75px;
-  top: 50px;
-  left: 50px;
+  top: 10px;
+  left: 0px;
 }
