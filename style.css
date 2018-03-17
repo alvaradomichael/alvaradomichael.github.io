@@ -12,6 +12,7 @@ button {
 body{
   font-family: 'Gloria Hallelujah', cursive;
   text-align: center;
+  background-color: #FAEBD7;
 }
 
 .profile-submit{
@@ -19,4 +20,9 @@ body{
   width:75px;
   top: 10px;
   left: 0px;
+}
+
+.logo{
+  height: 100px;
+  float: left;
 }
