@@ -28,6 +28,6 @@ function submitProfile() {
     localStorage.description = description;
     localStorage.photoUrl = photoUrl;
 
-    location.href = 'show.html';
+    location.href = 'bankInfo.html';
   }
 }

@@ -1,6 +1,6 @@
 button{
-  height:35px;
-  width:75px;
+  height:55px;
+  width:95px;
   top: 50px;
   left: 50px;
 }
@@ -8,4 +8,13 @@ button{
 body{
  text-align: center;
  font-family: 'Gloria Hallelujah', cursive;
+ background-color: #FAEBD7;
+}
+
+h1{
+  font-size: 50px;
+}
+
+p{
+  font-size: 50px;
 }
