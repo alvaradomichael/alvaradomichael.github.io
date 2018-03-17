@@ -18,6 +18,9 @@ function submitProfile() {
     localStorage.firstName = firstName;
     localStorage.lastName = lastName;
     localStorage.email = email;
+    localStorage.dob = dob;
+    localStorage.school = school;
+    localStorage.description = description;
 
     location.href = 'home.html';
   }
