@@ -26,3 +26,7 @@ body{
   height: 100px;
   float: left;
 }
+
+p{
+  font-family: 'Cormorant Garamond', serif;
+}
