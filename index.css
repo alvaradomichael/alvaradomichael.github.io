@@ -3,3 +3,8 @@ body{
   font-family: 'Gloria Hallelujah', cursive;
   background-color: #FAEBD7;
 }
+
+img{
+  height: 100px;
+  float: left;
+}

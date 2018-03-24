@@ -4,6 +4,7 @@ body {
   max-width: 900px;
   margin: 100px auto;
   font-size: 16px;
+  text-align: center;
 }
 
 .StripeElement {
@@ -92,4 +93,11 @@ button:hover {
 
 p{
   font-family: 'Cormorant Garamond', serif;
+}
+
+.class{
+  height:34px;
+  margin:0 auto;
+  margin-right:100px;
+  float:left;
 }
