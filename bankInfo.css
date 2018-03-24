@@ -8,6 +8,7 @@ body {
 }
 
 .StripeElement {
+  width: 300px;
   background-color: white;
   padding: 10px 12px;
   border-radius: 4px;
@@ -30,14 +31,14 @@ body {
 }
 
 form {
-  width: 670px;
   height: 120px;
   padding: 30px;
 }
 
 .form-row {
-  width: 70%;
-  float: left;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 label {
@@ -95,4 +96,7 @@ p{
   font-family: 'Cormorant Garamond', serif;
 }
 
-.class{
+.home{
+  display: flex;
+  align-items: center;
+}
